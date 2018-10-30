@@ -2,7 +2,8 @@ package com.course.testng;
 
 import org.testng.annotations.*;
 
-public class BasicAnnotation {
+public class
+BasicAnnotation {
     //最基本的注解
     @Test
     public void testCase1(){
