@@ -14,7 +14,7 @@
       <module name="AutoTest" target="1.5" />
       <module name="Chapter1" target="1.5" />
       <module name="Chapter5" target="1.5" />
-      <module name="Chapter6" target="1.5" />
+      <module name="Chapter6" target="6" />
     </bytecodeTargetLevel>
   </component>
 </project>
